@@ -1,0 +1,2 @@
+e);
+    cout << meme;

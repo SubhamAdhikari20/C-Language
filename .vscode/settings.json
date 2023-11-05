@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "*.tcc": "cpp",
+        "map": "cpp",
+        "list": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve"
+}
